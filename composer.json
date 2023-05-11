@@ -1,0 +1,27 @@
+{
+  "name": "webmaniabr/mdfe",
+  "type": "library",
+  "license": "GPL-3.0-or-later",
+  "description": "PHP SDK da API de MDF-e da Webmania",
+  "keywords": [ "documento fiscal", "api", "mdfe", "mdf-e", "webmaniabr", "webmania", "transporte", "ferroviario", "aereo", "aquaviario", "rodoviario"],
+  "homepage": "https://webmaniabr.com/docs/rest-api-mdfe/",
+  "prefer-stable": true,
+  "authors": [
+    {
+      "name": "Equipe Webmania"
+    }
+  ],
+  "require": {
+    "php": ">=5.2.0",
+    "guzzlehttp/guzzle": "^7.0"
+  },
+  "require-dev": {
+    "php": ">=5.2.0",
+    "guzzlehttp/guzzle": "^7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Webmaniabr\\Mdfe\\": "src/"
+    }
+  }
+}
