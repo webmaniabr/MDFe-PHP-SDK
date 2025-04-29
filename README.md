@@ -12,7 +12,7 @@ Através do emissor de Nota Fiscal de Serviço da Webmania®, você conta com a 
 
 ## Requisitos
 
-- Contrate um dos planos de MDF-e da Webmania® para obter suas credenciais de acesso: [Conheça os Planos (Teste 30 dias grátis!)](https://webmaniabr.com/nota-fiscal-eletronica/#plans-section).
+- Contrate um dos planos de MDF-e da Webmania® para obter suas credenciais de acesso: [Assine agora](https://webmaniabr.com/nota-fiscal-eletronica/#plans-section).
 - Obtenha o [Composer](https://getcomposer.org/) e instale o pacote da SDK e suas dependências.
 
 ## Endpoints
